@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 :root{
     --font-inter: 'Inter', sans-serif;
     --white-text: rgba(255, 255, 255, 1);
+=======
+:root{
+    --font-inter: 'Inter', sans-serif;
+    --white-text: rgba(255, 255, 255, 1);
+>>>>>>> 94521ea6876fa3780241fa41bd06688b06364197
 }

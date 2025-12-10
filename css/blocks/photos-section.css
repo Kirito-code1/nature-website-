@@ -1,0 +1,25 @@
+.photos-section{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+.block-one{
+    border: 1px solid red;
+    width: 80%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.block-one img{
+    width: 566px;
+    height: 720px;
+}
+.yellow-text{
+    color: rgba(251, 215, 132, 1);
+    font-weight: 800;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: var(--font-inter);
+}
